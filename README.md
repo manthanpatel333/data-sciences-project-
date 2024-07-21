@@ -5,7 +5,7 @@ This project involves preprocessing and transforming a dataset (vTargetMailCusto
 Project Steps
 
 Lab 1: Data Preparation
-1. **Install SQL Server Management Studio (SSMS):
+1. Install SQL Server Management Studio (SSMS):
    - Install SSMS to manage the database and import CSV files.
 
 2. Create Database and Import CSV:
@@ -42,7 +42,7 @@ Feature Selection
 | Region              | Nominal           | Discrete        |
 | Age                 | Discrete          | Discrete        |
 
-### Data Preprocessing and Transformation
+Data Preprocessing and Transformation
 1. Import Libraries and Load Data:
    - Import necessary libraries (pandas, numpy, etc.).
    - Load `vTargetBuyers.csv` into a variable for processing.
